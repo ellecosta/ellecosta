@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Giselle
 
 <p align="left">
-  <img src="https://readme-typing-svg.herokuapp.com?color=FF69B4&size=25&center=false&vCenter=true&width=600&lines=Back-End+Engineer;Node.js+%7C+TypeScript+%7C+JavaScript;From+Data+to+Software+Engineering;Becoming+a+Full-Stack+Engineer" />
+  <img src="https://readme-typing-svg.herokuapp.com?color=E75480&size=25&center=false&vCenter=true&width=600&lines=Back-End+Engineer;Node.js+%7C+TypeScript+%7C+JavaScript;From+Data+to+Software+Engineering;Becoming+a+Full-Stack+Engineer" />
 </p>
 
 💻 **Back-End Software Engineer**
@@ -41,17 +41,6 @@ Atualmente, estou expandindo minha atuação para o front-end com foco em me tor
 ### 🎨 Front-end (em evolução para Full Stack)
 
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge\&logo=react\&logoColor=61DAFB)
-
----
-
-## 🧩 What I do
-
-Atuo no desenvolvimento de um produto **SaaS** com arquitetura de **microsserviços orientados a eventos**, focando em:
-
-* Construção de APIs escaláveis
-* Comunicação entre serviços
-* Consistência de dados (transações e operações atômicas)
-* Integração entre sistemas
 
 ---
 
