@@ -1,16 +1,87 @@
-## Hi there 👋
+# 👋 Hi, I'm Giselle
 
-<!--
-**ellecosta/ellecosta** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="left">
+  <img src="https://readme-typing-svg.herokuapp.com?color=FF69B4&size=25&center=false&vCenter=true&width=600&lines=Back-End+Engineer;Node.js+%7C+TypeScript;From+Data+to+Software+Engineering;Always+learning+new+things" />
+</p>
 
-Here are some ideas to get you started:
+💻 **Back-End Software Engineer**
+🎓 Análise e Desenvolvimento de Sistemas — FATEC-SP
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🚀 About me
+
+Engenheira de Software Júnior com **3 anos de experiência em dados** e atualmente atuando com desenvolvimento back-end.
+
+Minha transição para desenvolvimento surgiu da vontade de **construir soluções reais e entender profundamente sistemas**. Hoje, uno pensamento analítico com engenharia de software para criar aplicações consistentes, escaláveis e bem estruturadas.
+
+---
+
+## ⚙️ Tech Stack
+
+### 🧠 Back-end
+
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge\&logo=nodedotjs\&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge\&logo=typescript\&logoColor=white)
+
+### 🗄️ Database
+
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge\&logo=postgresql\&logoColor=white)
+
+### ☁️ Cloud & Tools
+
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge\&logo=amazonaws\&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge\&logo=docker\&logoColor=white)
+![LocalStack](https://img.shields.io/badge/LocalStack-000000?style=for-the-badge\&logo=localstack\&logoColor=white)
+
+### 🎨 Front-end (learning)
+
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge\&logo=react\&logoColor=61DAFB)
+
+---
+
+## 🧩 What I do
+
+Atuo no desenvolvimento de um produto **SaaS** com arquitetura de **microsserviços orientados a eventos**, focando em:
+
+* Construção de APIs escaláveis
+* Comunicação entre serviços
+* Consistência de dados (transações e operações atômicas)
+* Integração entre sistemas
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=SEU_USERNAME&show_icons=true&theme=radical"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USERNAME&layout=compact&theme=radical"/>
+</p>
+
+---
+
+## 🐍 Contribution Graph
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/SEU_USERNAME/SEU_USERNAME/output/github-contribution-grid-snake.svg" />
+</p>
+
+---
+
+## 🌱 Currently learning
+
+* Front-end com **React**
+* Arquitetura de sistemas
+* Boas práticas de design de software
+
+---
+
+## 🎯 Goals
+
+Evoluir para atuar com **arquitetura de software**, contribuindo com decisões técnicas e desenho de soluções escaláveis.
+
+---
+
+## 📫 Let's connect
+
+* LinkedIn: https://linkedin.com/in/SEU-LINK
