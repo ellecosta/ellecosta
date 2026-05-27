@@ -44,23 +44,6 @@ Atualmente, estou expandindo minha atuação para o front-end com foco em me tor
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=ellecosta&show_icons=true&theme=radical"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ellecosta&layout=compact&theme=radical"/>
-</p>
-
----
-
-## 🐍 Contribution Graph
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/ellecosta/ellecosta/output/github-contribution-grid-snake.svg" />
-</p>
-
----
-
 ## 🌱 Currently learning
 
 * Front-end com **React**, com foco em evolução para **Full Stack**
