@@ -47,8 +47,8 @@ Atualmente, estou expandindo minha atuação para o front-end com foco em me tor
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=SEU_USERNAME&show_icons=true&theme=radical"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USERNAME&layout=compact&theme=radical"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=ellecosta&show_icons=true&theme=radical"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ellecosta&layout=compact&theme=radical"/>
 </p>
 
 ---
@@ -56,7 +56,7 @@ Atualmente, estou expandindo minha atuação para o front-end com foco em me tor
 ## 🐍 Contribution Graph
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/SEU_USERNAME/SEU_USERNAME/output/github-contribution-grid-snake.svg" />
+  <img src="https://raw.githubusercontent.com/ellecosta/ellecosta/output/github-contribution-grid-snake.svg" />
 </p>
 
 ---
