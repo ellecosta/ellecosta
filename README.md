@@ -1,7 +1,7 @@
-# 👋 Hi, I'm Giselle
+# Hi, I'm Giselle!
 
 <p align="left">
-  <img src="https://readme-typing-svg.herokuapp.com?color=E75480&size=25&center=false&vCenter=true&width=600&lines=Back-End+Engineer;Node.js+%7C+TypeScript+%7C+JavaScript;From+Data+to+Software+Engineering;Becoming+a+Full-Stack+Engineer" />
+  <img src="https://readme-typing-svg.herokuapp.com?color=FF8DA1&size=25&center=false&vCenter=true&width=600&lines=Back-End+Engineer;Node.js+%7C+TypeScript+%7C+JavaScript;From+Data+to+Software+Engineering;Becoming+a+Full-Stack+Engineer" />
 </p>
 
 💻 **Back-End Software Engineer**
