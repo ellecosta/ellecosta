@@ -9,7 +9,7 @@
 
 ---
 
-## 🚀 About me
+## About me
 
 Engenheira de Software Júnior com **3 anos de experiência em dados** e atualmente atuando com desenvolvimento back-end.
 
@@ -21,24 +21,24 @@ Atualmente, estou expandindo minha atuação para o front-end com foco em me tor
 
 ## ⚙️ Tech Stack
 
-### 🧠 Back-end
+### Back-end
 
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge\&logo=nodedotjs\&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge\&logo=typescript\&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-000000?style=for-the-badge\&logo=javascript\&logoColor=F7DF1E)
 
-### 🗄️ Database
+### Database
 
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge\&logo=postgresql\&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-001E2B?style=for-the-badge\&logo=mongodb\&logoColor=4EA94B)
 
-### ☁️ Cloud & Tools
+### Cloud & Tools
 
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge\&logo=amazonaws\&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge\&logo=docker\&logoColor=white)
 ![LocalStack](https://img.shields.io/badge/LocalStack-000000?style=for-the-badge\&logo=localstack\&logoColor=white)
 
-### 🎨 Front-end (em evolução para Full Stack)
+### Front-end (em evolução para Full Stack)
 
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge\&logo=react\&logoColor=61DAFB)
 
